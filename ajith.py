@@ -1,2 +1,0 @@
-ajith="ssss"
-print(ajith)
