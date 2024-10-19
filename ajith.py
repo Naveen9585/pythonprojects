@@ -1,0 +1,2 @@
+ajith="ssss"
+print(ajith)
